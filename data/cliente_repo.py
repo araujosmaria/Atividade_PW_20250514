@@ -1,4 +1,4 @@
-from data.cliente_model import Cliente
+from data.produto_model import Cliente
 from data.cliente_sql import *
 from data.util import get_connection
 
